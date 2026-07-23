@@ -5,4 +5,4 @@ isforceupdate=false
 updateurl=
 updatemessage=
 ismaintenance=false
-maintenancemessage=সার্ভার রক্ষণাবেক্ষণের কাজ চলছে। দয়া করে কিছুক্ষণ পর আবার চেষ্টা করুন।
+maintenancemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
