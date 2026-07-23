@@ -2,7 +2,7 @@
 versioncode=2
 versionname=2.0
 isforceupdate=false
-updateurl=
+updateurl=https://t.me/AirdropKoP24/71494
 updatemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
 ismaintenance=false
 maintenancemessage=সার্ভার রক্ষণাবেক্ষণের কাজ চলছে। দয়া করে কিছুক্ষণ পর আবার চেষ্টা করুন।
