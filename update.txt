@@ -1,7 +1,7 @@
 [PREMIUM ISLAND_UPDATE]
 versioncode=2
 versionname=2.0
-isforceupdate=false
+isforceupdate=true
 updateurl=https://t.me/AirdropKoP24/71494
 updatemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
 ismaintenance=true
