@@ -1,8 +1,8 @@
 [PREMIUM ISLAND_UPDATE]
-versioncode=2
-versionname=2.0
+versioncode=1
+versionname=1.0
 isforceupdate=false
 updateurl=
-updatemessage=
+updatemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
 ismaintenance=false
-maintenancemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
+maintenancemessage=সার্ভার রক্ষণাবেক্ষণের কাজ চলছে। দয়া করে কিছুক্ষণ পর আবার চেষ্টা করুন।
