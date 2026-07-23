@@ -6,5 +6,5 @@ updateurl=https://t.me/AirdropKoP24/71494
 updatemessage=একটি নতুন আপডেট উপলব্ধ! দয়া করে নিচের লিংক থেকে নতুন ভার্সনটি ডাউনলোড করে নিন।
 
 [PREMIUM ISLAND_UPDATE]
-ismaintenance=true
+ismaintenance=false
 maintenancemessage=আমাদের অ্যাপের সার্ভারে এখন কাজ চলছে। অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন।
