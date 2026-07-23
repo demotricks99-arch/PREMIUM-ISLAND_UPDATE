@@ -1,6 +1,6 @@
 [PREMIUM ISLAND_UPDATE]
-versioncode=1
-versionname=1.0
+versioncode=2
+versionname=2.0
 isforceupdate=false
 updateurl=
 updatemessage=গুরুত্বপূর্ণ আপডেট! এখনই আপডেট করুন।
